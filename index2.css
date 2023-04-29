@@ -1,0 +1,42 @@
+.ul{
+    list-style-type:none;
+}
+.div1{
+    background-image:radial-gradient(white,blue);
+}
+.div2{
+    background-image:radial-gradient(white,yellow);
+}
+.div3{
+    background-image: radial-gradient(white,green);
+}
+.div4{
+    background-image: radial-gradient(white,black);
+}
+
+#link1:link{
+    color:blue;
+}
+#link1:active{
+    color:darkmagenta;
+}
+#link1:hover{
+    color:black;
+}
+#link:visited{
+    color:green;
+}
+#link1{
+    text-decoration: none;
+}
+#button{
+    background-color: yellow;
+    color:red;
+    padding: 20px;
+    border-radius: 6px;
+    border:0px;
+    
+}
+.h3{
+    color:navy;
+}
